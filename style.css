@@ -1,0 +1,24 @@
+ header.header1 {
+            text-align: center;
+            color: blue;
+        }
+        header.header2 {
+            text-align: center;
+            color: green;
+        }
+
+        H5.H5(1){
+            COLOR: PURPLE;
+        }
+        body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial;
+}
+
+section, header, footer {
+    background-color: #000;
+}
+h5{
+    COLOR: rgb(197, 94, 15);
+}
